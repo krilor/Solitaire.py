@@ -15,7 +15,7 @@ for i in xrange(1000000000):
   if result < 5:
     print "Run #" + repr(i) + ": " + repr(result) + " cards left."
 
-    if result = 0: # Solved
+    if result == 0: # Solved
 
       message = "From: Kristoffer <" + vars.email + """>
 To: Kristoffer Lorentsen <""" + vars.email + """>
